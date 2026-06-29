@@ -1,0 +1,10 @@
+git clone https://github.com/nstewart1103-ship-it/mcino-Introduction-to-Git-and-GitHub
+
+cd mcino-Introduction-to-Git-and-GitHub
+
+git status
+
+git checkout main
+git pull
+git merge bug-fix-typo
+git push
