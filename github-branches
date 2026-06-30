@@ -1,0 +1,4 @@
+git branch -vv
+
+* bug-fix-revert 734d30f [origin/bug-fix-revert] Revert "Update README.md"
+  main           c0a963a [origin/main: ahead 2] Revert "Create merge_branches"
